@@ -8,10 +8,11 @@
 defined('_JEXEC') or die;
 
 /**
- * bg-BG localise class
+ * bg-BG localise 
+ class
  *
  * @package		Joomla.Site
- * @since		1.6
+ @since 1.6
  */
 abstract class bg_BGLocalise {
 	/**
